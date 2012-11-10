@@ -1,0 +1,6 @@
+{
+  "shell-version": ["3.6"],
+  "uuid": "tranparent-windows@invy.github.com",
+  "name": "Transparent Windows",
+  "description": "Transparent windows while grabing (moving)"
+}
