@@ -2,7 +2,7 @@
 /*
  * gnome-shell-transparend-window-move extension: adds effect to a currently grabbed/moved window
  *
- * Copyright (c) 2012 Igor Ingultsov aka inv / invy
+ * Copyright (c) 2012 Igor Ingultsov aka inv aka invy
 
  * This program is free software: you can redistribute it and/or m odify
  * it under the terms of the GNU General Public License as published by
@@ -17,7 +17,7 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  *
- * Author: Igor Ingultsov aka inv / invy
+ * Author: Igor Ingultsov aka inv aka invy
  *
  * Based on:
  *   focus-effects extension by Florian Mounier aka paradoxxxzero
